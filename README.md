@@ -1,4 +1,4 @@
-# Hi, I’m @Peled-Zohar
+# Hi, I’m Zohar
 
 I've been working as a software developer since 1999, using multiple languages and frameworks.
 Throughout my career I've learned and experienced multiple technologies, design patterns and architectire paradigms,
