@@ -11,7 +11,7 @@ I also maintain a (not very active) Stackoverflow account and write a technical 
 
 I hope at least some of you will benefit from at least some of these repositories or from some of my blog posts.
 
-If you wish to contact me, Please email me at whatthesharpdoiknow@gmail.com.
+If you wish to contact me, Please email me at peled.zohar@gmail.com.
 <!---
 Peled-Zohar/Peled-Zohar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
