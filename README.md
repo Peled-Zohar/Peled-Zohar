@@ -1,8 +1,7 @@
 # Hi, I’m Zohar
 
 I've been working as a software developer since 1999, using multiple languages and frameworks.  
-Throughout my career I've learned and experienced multiple technologies, design patterns and architecture paradigms,  
-and I'm still excited to learn cool new tricks.
+Throughout my career I've learned and experienced multiple technologies, design patterns and architecture paradigms, and I'm still excited to learn cool new tricks.
 
 Here you can find a few of the things I've developed in my spare time, 
 either as a way of learning new things or as a way of helping myself and others work more efficiently.
